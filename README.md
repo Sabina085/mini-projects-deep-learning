@@ -8,5 +8,5 @@ Mini-projects for the Deep Learning class (NLP, DRL), Master MVA, ENS Paris-Sacl
 
 2) Mini-Project on Deep Reinforcement Learning
 
-By using the Deep Q-Learning (DQN) algorithm, an agent is trained to learn from scratch a policy that maximizes its reward (a rat needs to collect cheese, while avoiding poisonous cells). 
+By using the DQN algorithm, an agent is trained to learn from scratch a policy that maximizes its reward (a rat needs to collect cheese, while avoiding poisonous cells). 
 
